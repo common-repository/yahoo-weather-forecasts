@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yahoo!-weather-forecasts\n"
+"POT-Creation-Date: 2013-03-25 01:04+0700\n"
+"PO-Revision-Date: 2013-03-25 01:04+0700\n"
+"Last-Translator: zourbuth <zourbuth@gmail.com>\n"
+"Language-Team: Zourbuth <zourbuth@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\area51\\wp-content\\plugins"
+"\\yahoo!-weather-forecasts\n"
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:30
+msgid "Please provide the WOEID."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:70
+msgid "steady"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:72
+msgid "rising"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:74
+msgid "falling"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:77
+msgid "Current conditions for "
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:77
+msgid " as of "
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:86
+msgid "Feels like: "
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:87
+msgid "Barometer: "
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:88
+msgid "Humidity: "
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:89
+msgid "Visibility: "
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:90
+msgid "Dewpoint: "
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:91
+msgid "Wind: "
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:92
+msgid "Sunrise: "
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:93
+msgid "Sunset: "
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:120
+msgid "Show the location weather using Yahoo! Weather."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:229
+msgid "Celcius"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:229
+msgid "Fahreinheit"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:246
+msgid "Widget Title"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:250
+msgid "WOEID"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:253
+msgid "Example for New York City:"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:254
+msgid "Use <a href=\"http://goo.gl/lR6Nk\">WOEID Generator</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:258
+msgid "Temperature"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:267
+msgid "Show credit?"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:270
+msgid "Intro Text"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:271
+msgid ""
+"This option will display addtional text before the widget content and "
+"supports HTML."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:275
+msgid "Outro Text"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:276
+msgid "This option will display addtional text after widget and supports HTML."
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:280
+msgid "Custom Script & Stylesheet"
+msgstr ""
+
+#: C:\xampp\htdocs\area51\wp-content\plugins\yahoo!-weather-forecasts/yahoo!-wheather.php:281
+msgid ""
+"Use this box for additional widget CSS style of custom javascript. Current "
+"widget selector: "
+msgstr ""

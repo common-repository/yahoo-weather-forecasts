@@ -1,0 +1,49 @@
+.yahoo-weather p {
+    margin-bottom: 0;
+}
+.yahoo-weather .copyright, .yahoo-weather p.last-update {
+    display: block;
+    font: 9px/13px arial,sans-serif;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    width: 100%;
+}
+.yahoo-weather .copyright {
+    margin-top: 20px;
+}
+.yahoo-weather p.condition {
+    font-size: 20px;
+    font-weight: bold;
+	margin-bottom: 10px;
+}
+.yahoo-weather .forecast-icon {
+    background: url("http://l.yimg.com/a/i/us/nws/weather/wdgt_day.png") no-repeat scroll right 0 transparent;
+    height: 80px;
+    position: relative;
+    width: auto;
+}
+.yahoo-weather .forecast-icon img {
+    opacity: 0.9;
+	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=90);
+	-MS-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+	position: absolute;
+	left:0;
+	top: -30px;
+}
+.yahoo-weather .temperature {
+    color: #FFFFFF;
+    float: right;
+    font-size: 260%;
+    font-weight: bold;
+    padding: 15px 10px 2px 0;
+    text-shadow: 0 -1px 1px #315895;
+}
+.yahoo-weather .high-low {
+    clear: right;
+    color: #FFFFFF;
+    font-size: 85%;
+    padding-right: 10px;
+    padding-top: 8px;
+    text-align: right;
+    text-shadow: 0 -1px 1px #315895;
+}
